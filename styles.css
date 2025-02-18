@@ -1,0 +1,73 @@
+
+.nav-pills .nav-link {
+    background: linear-gradient(to right, orange, rgb(247, 162, 176));
+    color: white; 
+}
+
+.card-group, .container {
+    padding: 20px;
+}
+
+.small-img {
+    width: 150px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    font-size: 0.9rem;
+    color: #555;
+}
+
+/* Form Styles */
+form {
+    margin-bottom: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
+
+/* Button Styles */
+.btn {
+    margin-right: 10px;
+}
+
+.btn-primary {
+    background-color: white;
+    color: black;
+    border: 5px solid rgb(247, 162, 176);
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+/* Task Details Specific Styles */
+.card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #ddd;
+}
+
+.d-grid {
+    margin-top: 20px;
+}
